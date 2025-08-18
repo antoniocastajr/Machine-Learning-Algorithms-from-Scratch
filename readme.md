@@ -61,17 +61,6 @@ This project serves as a **learning journey** through the most widely used machi
 
 ---
 
-## 🚀 How to Use the Repository  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/antoniocastajr/Machine-Learning-Algorithms-from-Scratch.git
-   cd Machine-Learning-Algorithms-from-Scratch
-   ```  
-2. Navigate into any algorithm’s folder and open the Jupyter Notebooks.  
-3. Run the code to see the step-by-step implementations.  
-
----
-
 ## 🏆 Algorithms Implemented
 - Linear Regression (Normal Equation & Gradient Descent)  
 - Logistic Regression (Binary & Multinomial)  
