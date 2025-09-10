@@ -61,13 +61,5 @@ This project serves as a **learning journey** through the most widely used machi
 
 ---
 
-## 🏆 Algorithms Implemented
-- Linear Regression (Normal Equation & Gradient Descent)  
-- Logistic Regression (Binary & Multinomial)  
-- Naive Bayes (Gaussian)  
-- Principal Component Analysis (PCA)  
-
----
-
 ✍️ **Author**: Antonio Castañares Rodríguez  
 📌 *This repository is part of my machine learning learning path, implementing algorithms from scratch for deeper understanding.*  
